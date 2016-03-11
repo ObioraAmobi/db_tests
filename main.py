@@ -2,7 +2,7 @@ from database.mysql import MySQLDatabase
 
 
 
-my_db = MySQLDatabase(database_name='employees_class_example', username='root', password='abc6Xash', host='localhost')
+my_db = MySQLDatabase(database_name='employees_class_example', username='root', password='-------', host='localhost')
 
 
 # my_tables = my_db.get_available_tables()
